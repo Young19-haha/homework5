@@ -226,6 +226,7 @@ header{
 @media print { 
   body {
     background-image: none;
+    background-color: transparent;
     -webkit-print-color-adjust: exact;
   }
 
